@@ -1,0 +1,256 @@
+State,sex,age,age
+AL,Female,13,25
+AL,Female,14,228
+AL,Female,15,482
+AL,Female,16,550
+AL,Female,17,410
+AL,Female,18,203
+AL,Female,<= 12,10
+AL,Male,13,25
+AL,Male,14,153
+AL,Male,15,460
+AL,Male,16,531
+AL,Male,17,415
+AL,Male,18,263
+AL,Male,<= 12,13
+AR,Female,13,1
+AR,Female,14,64
+AR,Female,15,310
+AR,Female,16,344
+AR,Female,17,220
+AR,Female,18,120
+AR,Female,<= 12,1
+AR,Male,14,43
+AR,Male,15,196
+AR,Male,16,293
+AR,Male,17,256
+AR,Male,18,139
+HI,Female,13,1
+HI,Female,14,109
+HI,Female,15,209
+HI,Female,16,199
+HI,Female,17,160
+HI,Female,18,70
+HI,Male,13,2
+HI,Male,14,72
+HI,Male,15,145
+HI,Male,16,185
+HI,Male,17,158
+HI,Male,18,90
+IA,Female,13,1
+IA,Female,14,55
+IA,Female,15,227
+IA,Female,16,238
+IA,Female,17,157
+IA,Female,18,79
+IA,Male,13,2
+IA,Male,14,48
+IA,Male,15,220
+IA,Male,16,211
+IA,Male,17,172
+IA,Male,18,110
+KY,Female,13,1
+KY,Female,14,93
+KY,Female,15,196
+KY,Female,16,178
+KY,Female,17,210
+KY,Female,18,101
+KY,Male,14,53
+KY,Male,15,177
+KY,Male,16,166
+KY,Male,17,164
+KY,Male,18,123
+LA,Female,13,4
+LA,Female,14,398
+LA,Female,15,833
+LA,Female,16,779
+LA,Female,17,636
+LA,Female,18,295
+LA,Female,<= 12,5
+LA,Male,13,1
+LA,Male,14,258
+LA,Male,15,660
+LA,Male,16,719
+LA,Male,17,575
+LA,Male,18,373
+LA,Male,<= 12,4
+ME,Female,14,76
+ME,Female,15,259
+ME,Female,16,233
+ME,Female,17,217
+ME,Female,18,173
+ME,Female,<= 12,1
+ME,Male,14,50
+ME,Male,15,202
+ME,Male,16,199
+ME,Male,17,224
+ME,Male,18,197
+ME,Male,<= 12,2
+MI,Female,13,3
+MI,Female,14,279
+MI,Female,15,555
+MI,Female,16,522
+MI,Female,17,452
+MI,Female,18,255
+MI,Female,<= 12,2
+MI,Male,13,4
+MI,Male,14,179
+MI,Male,15,492
+MI,Male,16,473
+MI,Male,17,427
+MI,Male,18,268
+MI,Male,<= 12,5
+MO,Female,14,53
+MO,Female,15,198
+MO,Female,16,219
+MO,Female,17,206
+MO,Female,18,90
+MO,Female,<= 12,4
+MO,Male,14,52
+MO,Male,15,154
+MO,Male,16,210
+MO,Male,17,177
+MO,Male,18,115
+MO,Male,<= 12,1
+MS,Female,13,1
+MS,Female,14,63
+MS,Female,15,201
+MS,Female,16,227
+MS,Female,17,211
+MS,Female,18,133
+MS,Male,13,1
+MS,Male,14,50
+MS,Male,15,193
+MS,Male,16,181
+MS,Male,17,162
+MS,Male,18,104
+MS,Male,<= 12,1
+MT,Female,14,133
+MT,Female,15,324
+MT,Female,16,309
+MT,Female,17,291
+MT,Female,18,120
+MT,Male,13,2
+MT,Male,14,87
+MT,Male,15,348
+MT,Male,16,320
+MT,Male,17,322
+MT,Male,18,187
+MT,Male,<= 12,3
+NV,Female,13,1
+NV,Female,14,89
+NV,Female,15,208
+NV,Female,16,201
+NV,Female,17,170
+NV,Female,18,70
+NV,Male,13,1
+NV,Male,14,59
+NV,Male,15,156
+NV,Male,16,206
+NV,Male,17,188
+NV,Male,18,111
+NV,Male,<= 12,1
+NY,Female,13,2
+NY,Female,14,245
+NY,Female,15,495
+NY,Female,16,463
+NY,Female,17,419
+NY,Female,18,184
+NY,Female,<= 12,2
+NY,Male,13,5
+NY,Male,14,233
+NY,Male,15,464
+NY,Male,16,489
+NY,Male,17,462
+NY,Male,18,262
+NY,Male,<= 12,2
+RI,Female,13,1
+RI,Female,14,105
+RI,Female,15,208
+RI,Female,16,203
+RI,Female,17,181
+RI,Female,18,102
+RI,Female,<= 12,3
+RI,Male,13,2
+RI,Male,14,60
+RI,Male,15,199
+RI,Male,16,198
+RI,Male,17,160
+RI,Male,18,99
+RI,Male,<= 12,1
+SC,Female,13,1
+SC,Female,14,396
+SC,Female,15,791
+SC,Female,16,776
+SC,Female,17,619
+SC,Female,18,294
+SC,Female,<= 12,4
+SC,Male,13,2
+SC,Male,14,291
+SC,Male,15,695
+SC,Male,16,686
+SC,Male,17,597
+SC,Male,18,369
+SC,Male,<= 12,3
+SD,Female,14,47
+SD,Female,15,214
+SD,Female,16,186
+SD,Female,17,214
+SD,Female,18,126
+SD,Female,<= 12,2
+SD,Male,13,1
+SD,Male,14,40
+SD,Male,15,214
+SD,Male,16,194
+SD,Male,17,183
+SD,Male,18,181
+SD,Male,<= 12,1
+UT,Female,13,1
+UT,Female,14,73
+UT,Female,15,184
+UT,Female,16,180
+UT,Female,17,134
+UT,Female,18,72
+UT,Male,13,5
+UT,Male,14,66
+UT,Male,15,175
+UT,Male,16,223
+UT,Male,17,176
+UT,Male,18,92
+UT,Male,<= 12,1
+WI,Female,14,106
+WI,Female,15,221
+WI,Female,16,169
+WI,Female,17,144
+WI,Female,18,81
+WI,Male,13,1
+WI,Male,14,59
+WI,Male,15,184
+WI,Male,16,135
+WI,Male,17,133
+WI,Male,18,88
+WV,Female,13,1
+WV,Female,14,60
+WV,Female,15,215
+WV,Female,16,257
+WV,Female,17,245
+WV,Female,18,125
+WV,Female,<= 12,3
+WV,Male,14,65
+WV,Male,15,170
+WV,Male,16,261
+WV,Male,17,248
+WV,Male,18,167
+WV,Male,<= 12,1
+WY,Female,14,70
+WY,Female,15,241
+WY,Female,16,279
+WY,Female,17,262
+WY,Female,18,152
+WY,Male,13,1
+WY,Male,14,59
+WY,Male,15,217
+WY,Male,16,305
+WY,Male,17,266
+WY,Male,18,210
+WY,Male,<= 12,4
